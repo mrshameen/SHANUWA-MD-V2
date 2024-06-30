@@ -1,4 +1,4 @@
-Const { smd, send } = require("../lib");
+const { smd, send } = require("../lib");
 const fetch = require("node-fetch");
 smd(
   {
