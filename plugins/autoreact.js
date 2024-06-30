@@ -2,7 +2,7 @@
 
 let handler = async (m, { conn, text }) => {
 
-    Conn.sendMessage(m.chat, {
+    conn.sendMessage(m.chat, {
           react: {
             text: `${pickRandom(['⚖'])}`,
             key: m.key,
