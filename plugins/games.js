@@ -1,4 +1,4 @@
-Const axios = require('axios')
+const axios = require('axios')
 const {cmd} = require("../lib/plugins");
 const eco = require("discord-mongoose-economy");
 const {
