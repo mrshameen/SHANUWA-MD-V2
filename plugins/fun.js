@@ -1,4 +1,4 @@
-Const axios = require("axios");
+const axios = require("axios");
 const {
   smd
 } = require("../lib");
