@@ -1,4 +1,4 @@
-const {
+Const {
     smd,
     prefix,
      } = require('../lib')
