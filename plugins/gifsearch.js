@@ -1,5 +1,5 @@
 smd({
-  'cmdname': "gifsearch",
+  'Cmdname': "gifsearch",
   'alias': ['gify', "tenor"],
   'category': "search",
   'use': "[text]",
