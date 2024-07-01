@@ -1,5 +1,5 @@
 //
-Const axios = require("axios");
+const axios = require("axios");
 const sᴜʜᴀɪʟ_ᴍᴅ = require("../lib/plugins");
 smd({
   'pattern': "lydea",
