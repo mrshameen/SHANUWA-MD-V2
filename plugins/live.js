@@ -1,4 +1,4 @@
-const { smd, Config } = require('../lib')
+Const { smd, Config } = require('../lib')
 
 
 
