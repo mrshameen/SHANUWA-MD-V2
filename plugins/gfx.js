@@ -1,4 +1,4 @@
-const {
+Const {
     smd,
     prefix,
     Config
