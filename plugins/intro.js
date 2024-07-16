@@ -3,21 +3,21 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/MrMasterOfc/MASTER-MD-V2' // Source URL
-const number = '94720797915'
-var name = ' MASTER MIND'
+var surl = 'https://github.com/mrshameen/SHANUWA-MD-V2' // Source URL
+const number = '94724389699'
+var name = ' SHANUWA MIND'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/2368f1b5d6ff724ae0c51.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 MASTER MIND INFO  」
-│ Name      : Sahan 
-│ Place       : Asia/Colombo
+│       「 SHANUWA MIND INFO  」
+│ Name      : Shanuwa 
+│ Place       : Asia/Galle
 │ Gender    :  Male
-│ Age          : 18
+│ Age          : 17
 │ education : Central 
-│ Phone     : wa.me/94720797915
-│ Youtube   : youtube.com/@sahanmaduwantha2006
-│ GitHub    : https://github.com/MrMasterOfc 
+│ Phone     : wa.me/94724389699
+│ Youtube   : https://www.youtube.com/@SL_Shanuwa
+│ GitHub    : https://github.com/mrshameen
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -28,7 +28,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["sahan","badar"],
+             alias: ["shanuwa","badar"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
