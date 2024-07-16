@@ -137,7 +137,7 @@ smd({
             }
           }
         }
-        return await _0x1428d2.send("`MASTER-MD UPDATE WAS SUCCESSFULL ✅`");
+        return await _0x1428d2.send("`SHANUWA-MD UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await _0x1428d2.send("*Auto Updated Failed, Unable to Download Update Please Manually Do It*");
       }
@@ -379,7 +379,7 @@ smd({
   try {
     const _0xaf491c = new Date().getTime();
     const _0x586203 = [async () => {
-      const _0x38ecaf = await axios.get("https://telegra.ph/file/2368f1b5d6ff724ae0c51.jpg", {
+      const _0x38ecaf = await axios.get("https://telegra.ph/file/9c6f82b23e7ba2d304b75.jpg", {
         'responseType': "arraybuffer"
       });
       const _0x8e3485 = await axios.get("https://api.maher-zubair.tech/misc/quote");
@@ -390,13 +390,13 @@ smd({
       const _0x5ccb54 = "\n\n*\"" + _0x4e2a4f.result.body + "\"*\n_- " + _0x4e2a4f.result.author + '_';
       const _0x42e066 = new Date().getTime();
       const _0x3c0bbc = (_0x42e066 - _0xaf491c) / 1000;
-      const _0x354d54 = "MASTER MD V2\n\n*Ping:* " + _0x3c0bbc + " seconds" + _0x5ccb54 + "\n\nMASTER MD V2";
+      const _0x354d54 = "SHANUWA MD V2\n\n*Ping:* " + _0x3c0bbc + " seconds" + _0x5ccb54 + "\n\nSHANHWA MD V2";
       return {
         'image': _0x38ecaf.data,
         'caption': _0x354d54
       };
     }, async () => {
-      const _0x451b27 = await axios.get("https://telegra.ph/file/2368f1b5d6ff724ae0c51.jpg", {
+      const _0x451b27 = await axios.get("https://telegra.ph/file/9c6f82b23e7ba2d304b75.jpg", {
         'responseType': "arraybuffer"
       });
       const _0x478519 = await axios.get("https://api.maher-zubair.tech/misc/fact");
@@ -406,13 +406,13 @@ smd({
       }
       const _0x2bbfe3 = new Date().getTime();
       const _0xf7a1bd = (_0x2bbfe3 - _0xaf491c) / 1000;
-      const _0xb9e392 = "MASTER MD V2 \n\n*Ping:* " + _0xf7a1bd + " seconds\n\n*Fact:*\n" + _0x2ae953.result.fact + "\n\nMASTER MD V2";
+      const _0xb9e392 = "SHANUWA MD V2 \n\n*Ping:* " + _0xf7a1bd + " seconds\n\n*Fact:*\n" + _0x2ae953.result.fact + "\n\nSHANUWA MD V2";
       return {
         'image': _0x451b27.data,
         'caption': _0xb9e392
       };
     }, async () => {
-      const _0x424141 = await axios.get("https://telegra.ph/file/2368f1b5d6ff724ae0c51.jpg", {
+      const _0x424141 = await axios.get("https://telegra.ph/file/9c6f82b23e7ba2d304b75.jpg", {
         'responseType': "arraybuffer"
       });
       const _0xd98374 = await axios.get("https://api.maher-zubair.tech/misc/lines");
@@ -454,13 +454,13 @@ smd({
     const _0x509270 = Math.floor(_0x25e2ed % 3600 / 60);
     const _0x12b376 = Math.floor(_0x25e2ed % 60);
     const _0xe8aa23 = process.memoryUsage().heapTotal / 1024 / 1024;
-    const _0x346845 = "*ＭＡＳＴＥＲ-ＭＤ-𝗜𝗡-𝗥𝗨𝗡𝗡𝗜𝗡𝗚-𝗙𝗥𝗢𝗠:* " + _0xb0a3ac + "h " + _0x509270 + "ᴍ " + _0x12b376 + "s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* " + _0xe8aa23.toFixed(2) + " MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* " + cpuModel;
+    const _0x346845 = "*ＳＨＡＮＵＷＡ-ＭＤ-𝗜𝗡-𝗥𝗨𝗡𝗡𝗜𝗡𝗚-𝗙𝗥𝗢𝗠:* " + _0xb0a3ac + "h " + _0x509270 + "ᴍ " + _0x12b376 + "s\n \t_ʜᴇʀᴇ's ᴍᴏʀᴇ ɪɴғᴏ_\n*ʀᴀᴍ ᴜsᴀɢᴇ:* " + _0xe8aa23.toFixed(2) + " MB\n*ᴄᴘᴜ ɴᴀᴍᴇ:* " + cpuModel;
     const _0x106c38 = {
       'isForwarded': true,
       'forwardingScore': 0x3e7,
-      'title': "MASTER MD Running Since",
+      'title': "SHANUWA MD Running Since",
       'body': _0x346845,
-      'footerText': "MASTER MD 2024",
+      'footerText': "SHANUWA MD 2024",
       'isSendNotificationMsg': true,
       'mentionedJid': []
     };
@@ -484,7 +484,7 @@ astro_patch.cmd({
     const {
       commands: _0x1956b1
     } = require("../lib");
-    let _0x3a8131 = "\n\t*👨‍💻ＭＡＳＴＥＲ-ＭＤ ＣＭＤ ＩＮＦＯ👨‍💻*  \n";
+    let _0x3a8131 = "\n\t*👨‍💻ＳＨＡＮＨＵＷＡ-ＭＤ ＣＭＤ ＩＮＦＯ👨‍💻*  \n";
     for (let _0x1960c3 = 0; _0x1960c3 < _0x1956b1.length; _0x1960c3++) {
       if (_0x1956b1[_0x1960c3].pattern == undefined) {
         continue;
@@ -766,7 +766,7 @@ smd({
         for (const _0x21ca06 in _0x3fd5c2) {
           let _0x2dfbe0 = '' + _0x21ca06.toLowerCase();
           if (_0x8852c0.includes(_0x2dfbe0)) {
-            _0x5bcec3 = "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\tMaster Md_" + _0x21ca06.toUpperCase() + "_COMMANDS*  \n┗━━━━━━━━━━━━━━━━━━━━━━━\n\n\n";
+            _0x5bcec3 = "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\tShanuwa Md_" + _0x21ca06.toUpperCase() + "_COMMANDS*  \n┗━━━━━━━━━━━━━━━━━━━━━━━\n\n\n";
             _0x3fd5c2[_0x21ca06].forEach(_0x618e30 => {
               _0x5bcec3 += "*🍁Command:* ```" + _0x618e30.command + "``` " + (_0x618e30.info ? "\n*🧩Info:* ```" + _0x618e30.info + "```" : '') + "\n*〽️Help:* ```" + _0x618e30.help + "```\n\n";
             });
@@ -824,7 +824,7 @@ smd({
             return await _0x1c9bbe.reply(util.format(_0x27a9e4));
           }
         } catch (_0x2dbe2b) {
-          console.log("ERROR FROM RUNNING QUERY WITH MASTER $\n", _0x2dbe2b);
+          console.log("ERROR FROM RUNNING QUERY WITH SHANUWA $\n", _0x2dbe2b);
           return await _0x1c9bbe.reply(util.format(_0x2dbe2b));
         }
       }
