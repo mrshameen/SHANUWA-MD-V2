@@ -105,7 +105,7 @@ smd({
   }
 });
 smd({
-  'cmdname': "mastermind",
+  'cmdname': "shanuwamind",
   'desc': "total Users Currently using asta"
 }, async (_0x5ca2f0, _0x3cf886) => {
   try {
