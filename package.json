@@ -1,19 +1,19 @@
 {
-   "name": "master-md@3.5.0",
+   "name": "shanuwa-md@3.5.0",
    "version": "3.5.0",
    "description": "Simple WhatsApp Bot",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-     "run": "pm2 start . --deep-monitoring --attach --name Master || node .",
-     "asta": "pm2 start . --deep-monitoring --attach --name Master || node .",
+     "run": "pm2 start . --deep-monitoring --attach --name Shanuwa || node .",
+     "asta": "pm2 start . --deep-monitoring --attach --name Shanuwa || node .",
      "start": "pm2 start . --attach --name Master",
      "stop": "pm2 stop Master",
-     "old-heroku-postbuild": "git clone https://github.com/MrMasterOfc/MASTER-MD-V2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-     "fis-heroku-postbuild": "git clone https://github.com/MrMasterOfc/MASTER-MD-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+     "old-heroku-postbuild": "git clone https://github.com/mrshameen/SHANUWA-MD-V2.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+     "fis-heroku-postbuild": "git clone https://github.com/mrshameen/SHANUWA-MD-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
      "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "MrMasterOfc",
+   "author": "mrshameen",
    "license": "GPL-2.0 license",
    "dependencies": {
      "@adiwajshing/keyed-db": "^0.2.4",
@@ -76,11 +76,11 @@
    },
    "repository": {
      "type": "git",
-     "url": "git+https://github.com/MrMasterOfc/MASTER-MD-V2.git"
+     "url": "git+https://github.com/mrshameen/SHANUWA-MD-V2.git"
    },
    "bugs": {
-     "url": "https://github.com/MrMasterOfc/MASTER-MD-V2/issues"
+     "url": "https://github.com/mrshameen/SHANUWA-MD-V2/issues"
    },
-   "homepage": "https://github.com/MrMasterOfc/MASTER-MD-V2#readme"
+   "homepage": "https://github.com/mrshameen/SHANUWA-MD-V2#readme"
  } 
  
