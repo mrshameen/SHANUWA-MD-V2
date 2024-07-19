@@ -48,7 +48,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱʜᴀɴᴜᴡᴀ ᴏꜰᴄ",
-  author: process.env.PACK_AUTHER || "Shanuqa",
+  author: process.env.PACK_AUTHER || "Shanuwa",
   packname: process.env.PACK_NAME || "SHANUWA-MD",
   botname: process.env.BOT_NAME || "•ꜱʜᴀɴᴜᴡᴀ-ᴍᴅ•",
   ownername: process.env.OWNER_NAME || "Shanuwa",
