@@ -1,4 +1,4 @@
-export declare class TicTacToe {
+export declare class TicTacToe {  q
     /* X PlayerName */
     playerX: string;
     /* Y PlayerName */
