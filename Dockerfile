@@ -1,4 +1,4 @@
-FROM quay.io/sampandey001/secktor   r
+FROM quay.io/sampandey001/secktor   
 
 RUN git clone https://github.com/mrshameen/SHANUWA-MD-V2.git /root/Itxxwasi
 
