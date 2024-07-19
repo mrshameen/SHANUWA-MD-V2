@@ -12,13 +12,13 @@ global.allowJids = process.env.ALLOW_JID || "94720797915@s.whatsapp.net";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Asia/colombo";
-global.github = process.env.GITHUB || "https://github.com/MrMasterOfc/MASTER-MD-V2";
+global.github = process.env.GITHUB || "https://github.com/mrshameen/SHANUWA-MD-V2";
 global.gurl = process.env.GURL || "";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/2368f1b5d6ff724ae0c51.jpg";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VajeAfs5vKA6Q9OWMN3T";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/38aacfb3fe9374930f978.jpg";
 global.devs = "923135673658";
-global.sudo = process.env.SUDO || "94720797915,94763621705";
-global.owner = process.env.OWNER_NUMBER || "94720797915";
+global.sudo = process.env.SUDO || "94724389699,94781470101";
+global.owner = process.env.OWNER_NUMBER || "94724389699";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -33,8 +33,8 @@ global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
-global.save_status_from = process.env.SAVE_STATUS_FROM || "94720797915";
-global.read_status_from = process.env.READ_STATUS_FROM || "94720797915";
+global.save_status_from = process.env.SAVE_STATUS_FROM || "94724389699";
+global.read_status_from = process.env.READ_STATUS_FROM || "94724389699";
 
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://wasimdscanner-68feefafb737.herokuapp.com/";
@@ -47,12 +47,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ",
-  author: process.env.PACK_AUTHER || "Sahan",
-  packname: process.env.PACK_NAME || "MASTER-MD",
-  botname: process.env.BOT_NAME || "•ᴍᴀꜱᴛᴇʀ-ᴍᴅ•",
-  ownername: process.env.OWNER_NAME || "Sahan",
-  errorChat: process.env.ERROR_CHAT || "94720797915",
+  caption: process.env.CAPTION || "©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱʜᴀɴᴜᴡᴀ ᴏꜰᴄ",
+  author: process.env.PACK_AUTHER || "Shanuqa",
+  packname: process.env.PACK_NAME || "SHANUWA-MD",
+  botname: process.env.BOT_NAME || "•ꜱʜᴀɴᴜᴡᴀ-ᴍᴅ•",
+  ownername: process.env.OWNER_NAME || "Shanuwa",
+  errorChat: process.env.ERROR_CHAT || "94724389699",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
