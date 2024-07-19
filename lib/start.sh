@@ -1,4 +1,4 @@
-while true
+while true   u
 do
 echo "Starting WASI-Md!"
 node .
