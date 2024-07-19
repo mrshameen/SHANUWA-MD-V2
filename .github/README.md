@@ -1,27 +1,27 @@
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MASTER+MD-V2;CREATED+BY+MASTER_MIND" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SHANUWA+MD-V2;CREATED+BY+SHANUWA_MIND" alt="Typing SVG" /></a>   
 </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/MrMasterOfc">
-    <img src="https://telegra.ph/file/2368f1b5d6ff724ae0c51.jpg" width="700px">
+<a href="https://github.com/mrshameen">
+    <img src="https://telegra.ph/file/38aacfb3fe9374930f978.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-`MASTER-MD-V2` whatsapp bot is,
+`SHANUWA-MD-V2` whatsapp bot is,
 
-       MASTER-MD-V2 බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+       SHANUWA-MD-V2 බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VajeAfs5vKA6Q9OWMN3T" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <p align="center">
-<a href="https://github.com/MrMasterOfc/MASTER-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/mrshameen/SHANUWA-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -55,7 +55,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <details close>
-<summary>HOW TO DEPLOY 👨‍💻 MASTER-MD-Ｖ2 👨‍💻</summary>
+<summary>HOW TO DEPLOY 👨‍💻 SHANUWA-MD-Ｖ2 👨‍💻</summary>
    
     1: First Fork the Repo.
     2: Scan the QR or Pair
@@ -87,7 +87,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone Your Forked Github Url
-cd MASTER-MD-V2
+cd SHANUWA-MD-V2
 npm i
 npm start
 ```
@@ -98,7 +98,7 @@ My First WhatsApp User Bot Project</h2>
 
 `Thanks To,`
 
-1: [`Me_😂🧛‍♂️`](https://wa.me/+94720797915)
+1: [`Me_😗👅💗`](https://wa.me/+94724389699)
 
 
 
