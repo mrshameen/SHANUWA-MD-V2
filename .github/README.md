@@ -15,93 +15,64 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
+### Setup
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VajeAfs5vKA6Q9OWMN3T" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <p align="center">
-<a href="https://github.com/mrshameen/SHANUWA-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**📌DEPLOY ON HEROKU**
+   - ***Click [`FORK`](https://github.com/mrshameen/SHANUWA-MD-V2/fork) and `Star ⭐ Repository` for Courage.***
+   - You will get a session ID in WhatsApp, copy the ID only.
+   - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
+</p>
 
-<a href="https://master-session-v1-and-v2-3d9c0dcfa05b.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION-black" alt="GET SESSION" width="250"></a>
+**`𝐒𝐇𝐀𝐍𝐔𝐖𝐀 𝐌𝐃 𝐕2 𝐁𝐎𝐓`**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://mr-sahan-ofc.vercel.app/"><img src="https://img.shields.io/badge/MY-SITE-black" alt="MY SITE" width="100"></a>
+<a href="https://mrshameen-234aa11213bb.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION-black" alt="GET SESSION" width="250"></a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1. Create a new file in the `plugins` directory, for example `master.js`.
-2. Define the command logic using the following template:
-    ```javascript
-    import amd from './lib';
-    
-    amd(
-      {
-        pattern: "master", // The Command Name
-        alias: "hello" // Command Secondary Trigger
-        fromMe: true, // is the message from the owner
-        desc: "Send Hi Message", // Command Description
-        type: "Test", // Command Category
-      },
-      async (message) => {
-        await message.send("Hello There");
-      }
-    );
-    ```
+
+
+
+##  PAIRING CODE SCAN
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <details close>
-<summary>HOW TO DEPLOY 👨‍💻 SHANUWA-MD-Ｖ2 👨‍💻</summary>
-   
-    1: First Fork the Repo.
-    2: Scan the QR or Pair
-    3: Fill Config.js File
-    4: Then Go to Heroku Web Page
-    5: Create Heroku App
-    6: Add Heroku Postgres package
-    7: Click Deploy Tab And Add Github Your fork Repostory
-    8: Click Deploy Branch
-    9: Go to Resources
-    10: Put Dyno Type to Professional and put 2x
-    11: Enjoy
+<a href ="https://mrshameen-234aa11213bb.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## DEPLOY IN HEROKU
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrshameen/SHANUWA-MD-V2/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
    </details>
+</P>
 
-<br>
- 
-***Termux Setup***
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurnageethanjana%2FCLEOPATRA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
- ```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone Your Forked Github Url
-cd SHANUWA-MD-V2
-npm i
-npm start
-```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center"> 
-My First WhatsApp User Bot Project</h2>
-
-`Thanks To,`
-
-1: [`Me_😗👅💗`](https://wa.me/+94724389699)
-2: [`Me 😗👅💗`](https://wa.me/+94781470101)
+![forks](https://img.shields.io/github/forks/mrshameen/SHANUWA-MD-V2?label=Forks&style=social)
 
 
 
-***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+## Contributions
 
+Contributions to Cleopatra-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## License
+
+The SHANUWA-MD-V2 is released.
+
+Enjoy the diverse features of the SHANUWA-MD-V2 to enhance your conversations and make your WhatsApp experience more interesting!
+
+## Developer:
+- [**WhatsApp**](https://wa.me/94724389699)
+-
