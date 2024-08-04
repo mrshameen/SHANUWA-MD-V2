@@ -25,7 +25,7 @@
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
-      "value": "https://telegra.ph/file/0b8c1c7dfcef0618844e8.jpg",
+      "value": "https://telegra.ph/file/38aacfb3fe9374930f978.jpg",
       "required" : true
     },
 
@@ -43,7 +43,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐓𝐀𝐈𝐅𝐔𝐑-𝐌𝐃-𝐕2"
+      "value": "𝐒𝐇𝐀𝐍𝐔𝐖𝐀 𝐌𝐃 𝐕2"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -106,7 +106,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "94781470101"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
