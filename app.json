@@ -1,7 +1,7 @@
 {
   "name": "SHANUWA MD V2",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=false",
+  "logo":"",
   "keywords": ["shanuwa", "TaifiV2", "Taifur MD","Taif MD","Taifur","wasitech"],
   "success_url": "/",
   "stack": "container",
